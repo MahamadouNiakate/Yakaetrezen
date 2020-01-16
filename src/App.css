@@ -1,0 +1,622 @@
+h1 {
+  margin-left: 145px;
+}
+
+.header-al {
+  display: flex;
+  flex-direction: row;
+}
+
+.link {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.presentation {
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.presentation:hover {
+  background-color: #1e90ff;
+}
+
+.presentation:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.qui {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.qui:hover {
+  background-color: #1e90ff;
+}
+
+.qui:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.coach {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.coach:hover {
+  background-color: #1e90ff;
+}
+
+.coach:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.video {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.video:hover {
+  background-color: #1e90ff;
+}
+
+.video:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.formation {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.formation:hover {
+  background-color: #1e90ff;
+}
+
+.formation:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.lecture {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.lecture:hover {
+  background-color: #1e90ff;
+}
+
+.lecture:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.contact {
+  margin-left: 20px;
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.contact:hover {
+  background-color: #1e90ff;
+}
+
+.contact:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.footer {
+  margin-left: 200px;
+}
+
+.image_Principale {
+  width: 1375px;
+  margin-left: 145px;
+  margin-top: 20px;
+}
+
+.photo_montagne {
+  width: 1375px;
+  margin-left: 145px;
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+.texte_Presentation {
+  margin-left: 145px;
+  text-align: justify;
+  margin-right: 160px;
+}
+
+.moi {
+  width: 300px;
+}
+
+.lui {
+  width: 300px;
+}
+
+.sommesNous {
+  margin-left: 200px;
+}
+
+.mahamadou {
+  display: flex;
+  margin-top: 40px;
+}
+
+.yassir {
+  display: flex;
+  margin-top: 100px;
+}
+
+.NomEtTexte {
+  margin-left: 20px;
+  text-align: justify;
+  margin-right: 650px;
+}
+
+.NomEtTexteYassir {
+  margin-left: 20px;
+  text-align: justify;
+  margin-right: 650px;
+}
+
+.mentor {
+  margin-left: 200px;
+}
+
+.description_Mentor {
+  text-align: justify;
+  margin-right: 160px;
+  margin-top: 50px;
+}
+
+.coach_noms {
+  margin-top: 60px;
+}
+
+.robbins {
+  display: flex;
+}
+
+.robbins_Texte {
+  margin-left: 20px;
+}
+
+.robbins_Image {
+  width: 300px;
+}
+
+.laroche {
+  display: flex;
+}
+
+.laroche_Image {
+  width: 300px;
+  margin-top: 80px;
+}
+
+.laroche_Texte {
+  margin-top: 80px;
+  margin-left: 20px;
+}
+
+.nicolas {
+  display: flex;
+  margin-top: 80px;
+}
+
+.nicolas_Image {
+  width: 300px;
+}
+
+.nicolas_Texte {
+  margin-left: 20px;
+}
+
+.lefrancois {
+  display: flex;
+  margin-top: 80px;
+}
+
+.lefrancois_Image {
+  width: 365px;
+}
+
+.lefrancois_Texte {
+  margin-left: 20px;
+}
+
+.amar {
+  display: flex;
+  margin-top: 80px;
+}
+
+.amar_Image {
+  width: 300px;
+}
+
+.amar_Texte {
+  margin-left: 20px;
+}
+
+.tolle {
+  display: flex;
+  margin-top: 80px;
+}
+
+.tolle_Image {
+  width: 300px;
+}
+
+.tolle_Texte {
+  margin-left: 20px;
+}
+
+.ecole_hypnose {
+  margin-left: 145px;
+}
+
+.list_livre {
+  margin-left: 600px;
+  margin-top: 100px;
+}
+
+.text_article {
+  margin-right: 400px;
+  text-align: justify;
+}
+
+.Video {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.Toutes_videos {
+  margin-top: 100px;
+}
+
+.titre_Video {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.texte_Video {
+  margin-left: 200px;
+  margin-right: 130px;
+}
+
+.texte_coach {
+  margin-right: 180px;
+}
+
+.texte_formation {
+  margin-right: 180px;
+}
+
+.Logos {
+  display: flex;
+  flex-direction: column;
+}
+
+.T_Logo {
+  margin-left: 400px;
+  margin-top: 150px;
+}
+
+.T_Logo {
+  display: flex;
+  flex-direction: row;
+}
+
+.contact {
+  margin-left: 50px;
+}
+
+.mail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Logos_contact {
+  margin-left: 20px;
+  width: 40px;
+}
+
+.texte_Contact {
+  margin-left: 10px;
+}
+
+.linkedinMaha {
+  display: flex;
+}
+
+.menuToggle {
+  position: fixed;
+  background: blue;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  display: none;
+}
+
+@media (max-width: 1200px) {
+  .menuToggle {
+    display: block;
+  }
+
+  .header-al {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .link {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .presentation {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .presentation:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .presentation:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .qui {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .qui:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .qui:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .coach {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .coach:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .coach:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .video {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .video:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .video:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .formation {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .formation:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .formation:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .lecture {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .lecture:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .lecture:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .contact {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+
+  .contact:hover {
+    background-color: #1e90ff;
+    margin-left: 20px;
+  }
+
+  .contact:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .image_Principale {
+    width: 700px;
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+
+  .photo_montagne {
+    width: 700px;
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+
+  .mahamadou {
+    display: flex;
+    flex-direction: column;
+    margin-right: -500px;
+  }
+
+  .NomEtTexte {
+    margin-left: -20px;
+  }
+
+  .yassir {
+    display: flex;
+    flex-direction: column;
+    margin-right: -500px;
+  }
+
+  .NomEtTexteYassir {
+    margin-left: -20px;
+  }
+
+  .robbins {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .laroche {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .laroche_Texte {
+    margin-top: 15px;
+  }
+
+  .nicolas {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .lefrancois {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .amar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tolle {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Video {
+    margin-left: 100px;
+  }
+
+  .list_livre {
+    margin-left: 50px;
+    margin-right: -100px;
+  }
+
+  .T_Logo {
+    margin-left: 50px;
+  }
+}
