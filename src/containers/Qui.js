@@ -9,7 +9,7 @@ class Qui extends React.Component {
         <div class="mahamadou">
           <img class="moi" src={moi} alt="maha" />
           <div class="NomEtTexte">
-            <h2>MAHAMADOU NIAKATÉ - hypnothérapeute</h2>
+            <h2 class="moiQui">MAHAMADOU NIAKATÉ - hypnothérapeute</h2>
             <p>
               Co-fondateur et Président de l'association. J'ai suivi une
               formation d'hypnothérapeute à l'école européenne d'hypnose. Je

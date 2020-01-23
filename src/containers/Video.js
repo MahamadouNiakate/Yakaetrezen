@@ -16,6 +16,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=pN97tF73zGw&list=PLIB0FUzmhLoSCRLM2WFt_mz6plvulw6hU&index=117"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Anthony Robbins</h3>
@@ -27,6 +36,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=dENi7K2lX4U&list=RDQMJTDwLswhrXo&start_radio=1"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">David Lefrançois</h3>
@@ -37,6 +55,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=8g2DmUHstb4&list=PLWiGb6vDJu4GmQea1ZlAzO1tB6gL5Thf9"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Franck Nicolas</h3>
@@ -47,6 +74,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=2x4iwzFat0Y&list=PLtiKld7VH7Wr5aZU7TuI_P1vnMVBNaGHU"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Oussamma Amar-Koudetat-The Family</h3>
@@ -58,6 +94,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=QGaGFGf5m_s&list=PLCfaK5LKKfnLPrR1qtLxD9r9DpXVIqX1t"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Eckhart Tolle</h3>
@@ -68,6 +113,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=dTFDfR47dl4&list=PLlHanBMNk-DLZwdwavJg4jdhw_fyc0fRN"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Tistrya</h3>
@@ -80,6 +134,15 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=Z8hdvglrXv0&list=PLAajWbhAK2MVeUpj2LgVHEYxArpO3SOcb"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
         <h3 class="titre_Video">LIVRE AUDIO</h3>
         <p class="texte_Video">
@@ -93,27 +156,72 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=SPFM-6oQv_Y"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Pouvoir de la confiance en soi</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=Y2fonEcW5Uw"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
         <h3 class="titre_Video">Réflechissez et devenez riche</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=kuFlAzRWaTM"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
         <h3 class="titre_Video">Les quatre accords Toltèques</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=G82EBozUaPc"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
         <h3 class="titre_Video">La puissance de votre subconscient</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=3QJyoBZZV_Q"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
         <h3 class="titre_Video">
           Le manuel inédit de la vie-Le guide que vous auriez dû recevoir à
@@ -122,30 +230,75 @@ class Video extends React.Component {
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=fqDsc-qrgDg"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">L'art subtil de s'en foutre</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=1OwrWc2LESE"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Croyez en vous-même</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=SuhBNVVHTZE"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">L'autodiscipline quotidienne</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=eOB6Qf0bFxs"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
 
         <h3 class="titre_Video">Le pouvoir des habitudes</h3>
         <ReactPlayer
           class="Video"
           url="https://www.youtube.com/watch?v=I5ml532TwBM"
+          width="auto"
+          fileConfig={{
+            attributes: {
+              style: {
+                display: "block",
+                width: "auto"
+              }
+            }
+          }}
         />
       </div>
     );

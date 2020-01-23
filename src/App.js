@@ -15,28 +15,30 @@ import Contact from "./containers/Contact";
 class App extends React.Component {
   render() {
     return (
-      <Router>
-        <div>
-          <Header />
-        </div>
-        <div>
-          <Route exact path="/" component={PremierePage} />
-          <Route exact path="/presentation" component={Presentation} />
-          <Route path="/qui" component={Qui} />
+      <section class="color">
+        <Router>
+          <div>
+            <Header />
+          </div>
+          <div>
+            <Route exact path="/" component={PremierePage} />
+            <Route exact path="/presentation" component={Presentation} />
+            <Route path="/qui" component={Qui} />
 
-          <Route path="/coach" component={Coach} />
+            <Route path="/coach" component={Coach} />
 
-          <Route path="/video" component={Video} />
+            <Route path="/video" component={Video} />
 
-          <Route path="/formation" component={Formation} />
+            <Route path="/formation" component={Formation} />
 
-          <Route path="/lecture" component={Lecture} />
-          <Route path="/contact" component={Contact} />
-        </div>
-        <div>
-          <Footer />
-        </div>
-      </Router>
+            <Route path="/lecture" component={Lecture} />
+            <Route path="/contact" component={Contact} />
+          </div>
+          <div>
+            <Footer />
+          </div>
+        </Router>
+      </section>
     );
   }
 }

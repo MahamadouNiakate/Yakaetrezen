@@ -27,7 +27,7 @@ class Coach extends React.Component {
             />
             <div class="robbins_Texte">
               <h3>Anthony Robbins</h3>
-              <p>
+              <p class="texte_coach">
                 Une référence international comme coach. C'est une référence en
                 PNL (Programmation Neuro-linguistique )
               </p>
@@ -37,7 +37,7 @@ class Coach extends React.Component {
             <img class="laroche_Image" src={laro} alt="laroche" />
             <div class="laroche_Texte">
               <h3>Davide Laroche</h3>
-              <p>
+              <p class="texte_coach_laroche">
                 Un jeune coach dynamique qui à des grandes qualités humaines et
                 dont je vous recommande de suivre la chaîne Youtube.
               </p>
@@ -47,9 +47,9 @@ class Coach extends React.Component {
             <img class="nicolas_Image" src={franck} alt="nicolas" />
             <div class="nicolas_Texte">
               <h3>Franck Nicolas</h3>
-              <p>
+              <p class="texte_coach_nicolas">
                 Un coach canadiens qui nous fait du bien quand on l'écoute avec
-                son accès québécois lol
+                son accent québécois lol
               </p>
             </div>
           </div>
@@ -57,7 +57,7 @@ class Coach extends React.Component {
             <img class="lefrancois_Image" src={francois} alt="nicolas" />
             <div class="lefrancois_Texte">
               <h3>David Lefrançois</h3>
-              <p class="texte_coach">
+              <p class="texte_coach_francois">
                 Un psychologue de formation qui est passionné par le cerveau et
                 qui a beaucoup voyagé à travers le monde. Il cherche a augmenter
                 notre rapport au bonheur. C'est un ancien sportif de haut
@@ -69,7 +69,7 @@ class Coach extends React.Component {
             <img class="amar_Image" src={oussama} alt="nicolas" />
             <div class="amar_Texte">
               <h3>Oussama Amar-The family</h3>
-              <p class="texte_coach">
+              <p class="texte_coach_amar">
                 Un spécialiste de l'entrepreneuriat. C'est un des cofondateurs
                 de the family que je vous recommande vivement de suivre si vous
                 souhaitez créer votre propre entreprise. C'est une structure qui
@@ -81,7 +81,7 @@ class Coach extends React.Component {
             <img class="tolle_Image" src={tolle} alt="nicolas" />
             <div class="tolle_Texte">
               <h3>Eckhart Tolle</h3>
-              <p class="texte_coach">
+              <p class="texte_coach_tolle">
                 Un maître dans le milieu du développement personnel qui a su
                 changer de vie. Je vous recommande de le suivre vivement à
                 travers ses différentes productions.

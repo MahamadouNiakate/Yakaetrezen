@@ -1,5 +1,6 @@
 h1 {
-  margin-left: 145px;
+  margin-left: 195px;
+  font-family: URW Chancery L, cursive;
 }
 
 .header-al {
@@ -175,6 +176,7 @@ h1 {
   margin-left: 145px;
   text-align: justify;
   margin-right: 160px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .moi {
@@ -394,10 +396,6 @@ h1 {
 }
 
 @media (max-width: 1200px) {
-  .menuToggle {
-    display: block;
-  }
-
   .header-al {
     display: flex;
     flex-direction: column;
@@ -618,5 +616,370 @@ h1 {
 
   .T_Logo {
     margin-left: 50px;
+  }
+}
+
+@media (max-width: 720px) {
+  .nom {
+    margin-left: 60px;
+  }
+
+  .presentation {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .presentation:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .presentation:active {
+    box-shadow: none;
+  }
+
+  .qui {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .qui:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .qui:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .coach {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .coach:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .coach:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .video {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .video:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .video:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .formation {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .formation:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .formation:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .lecture {
+    background-color: blue;
+    color: white;
+    padding: 1em 3em;
+    font-size: 15px;
+    margin-left: -40px;
+    margin-right: 70px;
+  }
+
+  .lecture:hover {
+    background-color: #1e90ff;
+    margin-left: -40px;
+  }
+
+  .lecture:active {
+    box-shadow: none;
+    top: 5px;
+  }
+
+  .texte_Presentation {
+    margin-left: 40px;
+    text-align: justify;
+    margin-right: 40px;
+    margin-top: 100px;
+  }
+
+  .moi {
+    width: 200px;
+    margin-left: -125px;
+  }
+
+  .lui {
+    width: 200px;
+    margin-left: -125px;
+  }
+
+  .NomEtTexte {
+    margin-left: -170px;
+    text-align: justify;
+    margin-right: 550px;
+    font-size: 12px;
+  }
+
+  .moiQui {
+    font-size: 13px;
+  }
+
+  .NomEtTexteYassir {
+    margin-left: -170px;
+    text-align: justify;
+    margin-right: 550px;
+    font-size: 12px;
+  }
+
+  .mentor {
+    margin-left: 40px;
+    margin-right: -110px;
+  }
+
+  .description_Mentor {
+    text-align: justify;
+    margin-right: 160px;
+    margin-top: 50px;
+  }
+
+  .coach_noms {
+    margin-top: 50px;
+  }
+
+  .robbins {
+    display: flex;
+  }
+
+  .robbins_Texte {
+    margin-left: -3px;
+    margin-right: -150px;
+    text-align: justify;
+    font-size: 15px;
+  }
+
+  .texte_coach {
+    font-size: 12px;
+    margin-right: 300px;
+  }
+
+  .robbins_Image {
+    width: 300px;
+  }
+
+  .laroche {
+    display: flex;
+  }
+
+  .laroche_Image {
+    width: 300px;
+    margin-top: 40px;
+  }
+
+  .laroche_Texte {
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+
+  .texte_coach_laroche {
+    font-size: 12px;
+    margin-right: 140px;
+    text-align: justify;
+  }
+
+  .nicolas {
+    display: flex;
+    margin-top: 80px;
+  }
+
+  .nicolas_Image {
+    width: 300px;
+  }
+
+  .nicolas_Texte {
+    margin-left: 5px;
+  }
+
+  .texte_coach_nicolas {
+    text-align: justify;
+    font-size: 12px;
+    margin-right: 140px;
+  }
+
+  .lefrancois {
+    display: flex;
+    margin-top: 80px;
+  }
+
+  .lefrancois_Image {
+    width: 300px;
+  }
+
+  .lefrancois_Texte {
+    margin-left: 5px;
+  }
+
+  .texte_coach_francois {
+    text-align: justify;
+    font-size: 12px;
+    margin-right: 140px;
+  }
+
+  .amar {
+    display: flex;
+    margin-top: 80px;
+  }
+
+  .amar_Image {
+    width: 300px;
+  }
+
+  .amar_Texte {
+    margin-left: 5px;
+  }
+
+  .texte_coach_amar {
+    text-align: justify;
+    font-size: 12px;
+    margin-right: 140px;
+  }
+
+  .tolle {
+    display: flex;
+    margin-top: 80px;
+  }
+
+  .tolle_Image {
+    width: 300px;
+  }
+
+  .tolle_Texte {
+    margin-left: 5px;
+  }
+
+  .texte_coach_tolle {
+    text-align: justify;
+    font-size: 12px;
+    margin-right: 140px;
+  }
+
+  .Video {
+    margin-left: 10px;
+    margin-top: 70px;
+  }
+
+  .Toutes_videos {
+    margin-top: 100px;
+  }
+
+  .titre_Video {
+    margin-left: 30px;
+    margin-top: 50px;
+  }
+
+  .texte_Video {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+  }
+
+  .image_Principale {
+    width: 350px;
+    margin-left: 1px;
+    margin-top: 20px;
+  }
+
+  .photo_montagne {
+    width: 350px;
+    margin-left: 1px;
+    margin-top: 40px;
+  }
+
+  .footer {
+    margin-top: 30px;
+    font-size: 12px;
+  }
+
+  .ecole_hypnose {
+    margin-left: 20px;
+  }
+
+  .texte_formation {
+    margin-right: 20px;
+    text-align: justify;
+  }
+
+  .list_livre {
+    margin-left: 20px;
+    margin-top: 100px;
+  }
+
+  .text_article {
+    margin-right: 140px;
+    text-align: justify;
+  }
+
+  h3 {
+    font-size: 15px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+  .T_Logo {
+    margin-left: 20px;
+    margin-top: 100px;
+  }
+
+  .T_Logo {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Logos {
+    margin-top: 40px;
+  }
+
+  .color {
+    background-color: #f0ffff;
   }
 }

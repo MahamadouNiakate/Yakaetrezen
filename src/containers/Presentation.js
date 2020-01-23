@@ -12,6 +12,7 @@ class Presentation extends React.Component {
           coaching individualisé ou en groupe toutes ces pratiques ayant pour
           unique but d'amener autrui à s'épanouir dans sa vie de tous les jours.
         </p>
+
         <h2>C'est quoi l'hypnose?</h2>
         <p>
           L'hypnose ericksonienne est issue de la pratique de Milton Erickson
